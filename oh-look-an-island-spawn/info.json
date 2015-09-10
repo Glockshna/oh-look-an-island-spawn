@@ -1,0 +1,10 @@
+{
+  "name": "oh-look-an-island-spawn",
+  "version": "0.1.1",
+  "title": "Oh Look an island spawn",
+  "author": "Glockshna,",
+  "homepage": "",
+  "contact": "Glockshna@hotmail.com",
+  "description": "A twist on vanilla factorio. Our hero has crash landed on a small island on an oceanic planet.",
+  "dependencies": ["base >= 0.12.0"]
+}

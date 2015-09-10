@@ -1,7 +1,13 @@
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
+/.settings/*
+/builds/*
+/gitignore/*
 
+
+.buildpath
+.project
 # Folder config file
 Desktop.ini
 
